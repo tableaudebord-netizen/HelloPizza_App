@@ -1,3 +1,4 @@
+
 # =====================================================================
 #  HELLO PIZZA - LECTURE DES DONNÉES
 #  Source principale : Google Sheets (rempli chaque mois par n8n).
@@ -32,7 +33,18 @@ def _nombre(v):
 
 
 def trouver_cle():
+    
     """Cherche la clé Google dans le dossier (même si Windows a ajouté « .json » deux fois)."""
+    try:
+        import streamlit as st
+        import tempfile
+        if "gcp_json" in st.secrets:
+            chemin = os.path.join(tempfile.gettempdir(), "cle_google_tmp.json")
+            with open(chemin, "w") as f:
+                f.write(st.secrets["gcp_json"])
+            return chemin
+    except Exception:
+        pass
     candidats = [config.CLE_GOOGLE, config.CLE_GOOGLE + ".json"]
     candidats += sorted(f for f in os.listdir(DOSSIER) if f.lower().startswith(("crucial-gasket", "cle_google"))
                         and f.lower().endswith(".json"))
