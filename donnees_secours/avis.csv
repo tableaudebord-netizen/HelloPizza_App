@@ -1,0 +1,511 @@
+Timestamp,Mode de consommation,Note goût,Note service,Note rapidité,Avez-vous rencontré un problème avec votre plat ?,Type de problème,Recommanderiez-vous Hello Pizza ?,Commentaire
+2024-01-03 14:23:22,À emporter,4,3,4,Non,,Oui,
+2024-01-04 15:10:29,Sur place,4,5,4,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2024-01-08 13:51:20,Sur place,4,3,5,Non,,Oui,
+2024-01-09 15:41:31,À emporter,4,4,4,Non,,Oui,Bon rapport qualité-prix.
+2024-01-10 23:34:16,À emporter,5,5,4,Non,,Oui,Pâte excellente.
+2024-01-13 22:05:48,Sur place,2,2,4,Oui,"Erreur de commande, Mauvais goût",Non,Erreur dans ma commande à emporter.
+2024-01-15 22:33:16,À emporter,5,3,3,Non,,Oui,
+2024-01-21 21:49:41,À emporter,4,4,3,Non,,Oui,
+2024-01-25 21:32:48,À emporter,4,3,4,Non,,Oui,
+2024-01-27 15:09:23,Sur place,4,5,5,Non,,Oui,Parfait pour un repas entre amis.
+2024-01-28 13:07:59,Sur place,4,4,4,Non,,Oui,
+2024-01-28 14:46:31,Sur place,3,5,4,Non,,Oui,
+2024-02-07 21:01:37,Sur place,5,3,5,Non,,Oui,
+2024-02-07 22:42:41,Sur place,4,5,4,Non,,Oui,Bon rapport qualité-prix.
+2024-02-09 15:04:57,À emporter,3,3,4,Non,,Oui,Bon rapport qualité-prix.
+2024-02-14 14:46:59,Sur place,5,3,5,Non,,Oui,Bon rapport qualité-prix.
+2024-02-17 14:42:27,Sur place,3,3,5,Oui,Plat froid,Oui,Ma pizza est arrivée tiède.
+2024-02-18 22:46:21,Sur place,3,3,4,Non,,Oui,Personnel accueillant.
+2024-02-20 15:55:59,Sur place,3,5,5,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2024-02-23 15:10:26,Sur place,4,4,4,Non,,Oui,
+2024-02-24 22:16:59,Sur place,4,5,5,Non,,Oui,Pâte excellente.
+2024-02-25 21:13:03,À emporter,5,3,3,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2024-02-28 22:32:58,À emporter,5,5,4,Non,,Oui,Service rapide et sympa.
+2024-03-03 13:39:05,À emporter,4,5,4,Non,,Oui,Bon rapport qualité-prix.
+2024-03-04 21:15:16,Sur place,4,4,3,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2024-03-08 14:04:34,Sur place,4,3,3,Non,,Oui,Bon rapport qualité-prix.
+2024-03-08 21:10:28,Sur place,5,5,5,Non,,Oui,
+2024-03-13 23:19:59,À emporter,5,3,3,Non,,Oui,
+2024-03-19 14:17:18,À emporter,5,4,5,Non,,Oui,Personnel accueillant.
+2024-03-19 22:16:57,À emporter,3,4,3,Non,,Non,Pâte excellente.
+2024-03-22 21:10:47,À emporter,4,4,3,Non,,Oui,Service rapide et sympa.
+2024-03-28 14:34:02,Sur place,4,3,3,Non,,Oui,Personnel accueillant.
+2024-03-29 13:57:22,À emporter,2,2,5,Oui,Ingrédient manquant,Oui,Erreur dans ma commande à emporter.
+2024-03-31 14:59:59,À emporter,4,3,3,Non,,Oui,Pâte excellente.
+2024-04-06 14:24:55,Sur place,3,3,5,Non,,Oui,Bon rapport qualité-prix.
+2024-04-08 13:42:12,À emporter,4,3,4,Non,,Oui,Parfait pour un repas entre amis.
+2024-04-09 23:25:43,À emporter,5,3,4,Non,,Oui,Pâte excellente.
+2024-04-11 21:02:06,Sur place,5,4,5,Non,,Oui,Service rapide et sympa.
+2024-04-14 15:16:02,À emporter,5,5,5,Non,,Oui,
+2024-04-22 15:23:27,Sur place,3,4,5,Non,,Oui,
+2024-04-24 23:19:42,À emporter,4,4,4,Non,,Oui,
+2024-04-26 15:27:50,Sur place,5,4,5,Non,,Oui,
+2024-04-26 22:43:47,Sur place,4,4,3,Non,,Oui,Personnel accueillant.
+2024-04-26 23:30:50,À emporter,5,3,5,Non,,Oui,
+2024-04-28 21:05:52,Sur place,4,3,4,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2024-04-30 14:41:44,Sur place,2,2,5,Oui,Erreur de commande,Oui,
+2024-04-30 15:30:39,Sur place,3,5,5,Non,,Oui,
+2024-05-02 22:39:52,Sur place,5,4,5,Non,,Oui,
+2024-05-04 22:28:16,À emporter,4,4,5,Non,,Oui,
+2024-05-05 15:17:28,Sur place,3,3,4,Non,,Oui,Service rapide et sympa.
+2024-05-08 14:14:24,À emporter,5,3,5,Non,,Oui,Parfait pour un repas entre amis.
+2024-05-15 22:26:03,Sur place,4,4,5,Non,,Oui,
+2024-05-15 22:30:00,À emporter,3,3,5,Oui,Autre,Oui,
+2024-05-17 15:31:14,Sur place,4,3,5,Non,,Oui,
+2024-05-18 13:05:41,Sur place,4,4,4,Non,,Oui,
+2024-05-18 14:53:29,À emporter,4,5,5,Non,,Oui,
+2024-05-20 15:29:20,Sur place,4,4,5,Non,,Oui,Personnel accueillant.
+2024-05-22 22:01:47,Sur place,5,4,3,Non,,Oui,
+2024-05-26 13:15:12,Sur place,3,3,5,Non,,Non,Bon rapport qualité-prix.
+2024-05-28 21:49:23,Sur place,4,3,4,Non,,Oui,Personnel accueillant.
+2024-05-30 13:59:19,Sur place,5,4,5,Non,,Oui,Bon rapport qualité-prix.
+2024-06-04 13:22:34,Sur place,4,3,4,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2024-06-04 22:06:27,À emporter,4,4,5,Non,,Oui,Pâte excellente.
+2024-06-08 23:41:17,À emporter,5,5,5,Non,,Oui,
+2024-06-10 21:20:54,Sur place,4,3,5,Non,,Oui,Bon rapport qualité-prix.
+2024-06-19 22:21:01,Sur place,4,3,4,Non,,Oui,Personnel accueillant.
+2024-06-20 21:56:38,Sur place,5,5,4,Non,,Oui,Service rapide et sympa.
+2024-06-21 22:31:35,Sur place,4,4,3,Non,,Oui,Service rapide et sympa.
+2024-06-22 15:25:44,Sur place,4,5,5,Non,,Oui,
+2024-06-23 15:20:07,À emporter,2,2,4,Oui,"Ingrédient manquant, Mauvais goût",Oui,
+2024-06-23 22:47:35,Sur place,4,4,4,Non,,Oui,Bon rapport qualité-prix.
+2024-06-25 21:06:53,À emporter,4,4,3,Non,,Oui,
+2024-06-26 14:17:02,À emporter,3,3,5,Non,,Non,"Très bonne pizza, je reviendrai !"
+2024-06-27 21:30:30,Sur place,3,3,4,Oui,Ingrédient manquant,Oui,Erreur dans ma commande à emporter.
+2024-06-28 14:25:31,Sur place,3,3,5,Non,,Oui,Service rapide et sympa.
+2024-07-04 22:19:36,Sur place,5,3,4,Non,,Oui,
+2024-07-08 21:42:05,À emporter,4,3,5,Non,,Oui,
+2024-07-13 22:18:02,Sur place,4,3,3,Non,,Oui,
+2024-07-14 21:50:50,À emporter,5,3,5,Non,,Oui,Bon rapport qualité-prix.
+2024-07-15 14:58:17,Sur place,2,2,3,Oui,Ingrédient manquant,Non,
+2024-07-15 22:07:29,Sur place,5,4,5,Non,,Oui,
+2024-07-17 13:56:27,À emporter,5,2,4,Non,,Oui,
+2024-07-18 13:48:43,Sur place,4,3,5,Non,,Oui,
+2024-07-20 14:20:16,À emporter,4,5,3,Non,,Oui,
+2024-07-20 14:37:27,À emporter,5,4,4,Non,,Oui,Parfait pour un repas entre amis.
+2024-07-20 14:54:10,Sur place,4,4,5,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2024-07-25 22:26:03,Sur place,4,4,3,Non,,Oui,Bon rapport qualité-prix.
+2024-07-25 23:08:59,Sur place,4,3,5,Non,,Oui,
+2024-07-26 14:19:35,À emporter,2,3,3,Oui,Plat froid,Non,Ma pizza est arrivée tiède.
+2024-07-30 14:31:59,Sur place,5,4,5,Non,,Oui,Bon rapport qualité-prix.
+2024-08-03 21:59:50,À emporter,5,3,5,Non,,Oui,
+2024-08-05 15:36:24,Sur place,4,4,5,Non,,Oui,
+2024-08-05 22:55:09,Sur place,4,3,5,Non,,Oui,Parfait pour un repas entre amis.
+2024-08-07 14:31:02,À emporter,4,3,5,Non,,Oui,Service rapide et sympa.
+2024-08-09 22:00:46,À emporter,4,3,4,Non,,Oui,Parfait pour un repas entre amis.
+2024-08-13 22:41:05,Sur place,4,4,5,Non,,Oui,
+2024-08-17 23:02:39,Sur place,2,2,5,Oui,"Erreur de commande, Ingrédient manquant",Oui,Erreur dans ma commande à emporter.
+2024-08-18 14:28:10,Sur place,5,3,3,Non,,Oui,Personnel accueillant.
+2024-08-20 21:27:09,Sur place,4,3,3,Non,,Oui,
+2024-08-24 15:31:58,Sur place,5,4,5,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2024-08-25 21:43:34,Sur place,4,5,5,Non,,Oui,
+2024-08-26 22:54:19,À emporter,4,3,5,Non,,Oui,Parfait pour un repas entre amis.
+2024-08-28 21:44:18,À emporter,3,4,5,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2024-08-29 22:53:57,Sur place,3,2,5,Oui,Erreur de commande,Oui,
+2024-08-30 14:40:06,Sur place,5,3,3,Non,,Oui,
+2024-09-03 23:32:58,À emporter,4,4,5,Non,,Oui,Personnel accueillant.
+2024-09-05 21:51:07,À emporter,4,3,4,Non,,Oui,
+2024-09-05 22:54:51,Sur place,5,4,5,Non,,Oui,Service rapide et sympa.
+2024-09-06 21:43:47,À emporter,5,4,4,Non,,Oui,Service rapide et sympa.
+2024-09-07 15:30:01,À emporter,5,5,5,Non,,Oui,Bon rapport qualité-prix.
+2024-09-10 14:40:52,Sur place,3,3,5,Oui,Plat froid,Non,Ma pizza est arrivée tiède.
+2024-09-11 22:07:06,À emporter,4,3,4,Non,,Oui,
+2024-09-14 23:26:37,Sur place,5,4,5,Non,,Oui,
+2024-09-18 21:02:44,À emporter,4,4,4,Non,,Oui,Service rapide et sympa.
+2024-09-24 15:41:40,À emporter,5,3,4,Non,,Oui,Pâte excellente.
+2024-09-24 21:34:57,Sur place,5,4,3,Non,,Oui,
+2024-09-26 15:04:53,Sur place,5,3,4,Non,,Oui,Parfait pour un repas entre amis.
+2024-09-29 13:17:54,À emporter,4,5,4,Non,,Oui,Service rapide et sympa.
+2024-09-30 13:08:00,Sur place,4,3,3,Non,,Oui,Pâte excellente.
+2024-10-02 23:14:39,Sur place,3,5,5,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2024-10-03 22:27:43,À emporter,2,3,5,Oui,Plat froid,Oui,Attente un peu longue ce soir.
+2024-10-04 14:04:08,À emporter,4,5,4,Non,,Oui,
+2024-10-05 23:18:29,À emporter,5,3,3,Non,,Oui,
+2024-10-12 23:46:55,Sur place,4,3,5,Non,,Oui,
+2024-10-14 14:20:27,Sur place,4,4,5,Non,,Oui,
+2024-10-15 14:53:05,À emporter,3,4,5,Non,,Non,
+2024-10-16 21:42:07,Sur place,3,3,5,Oui,Plat froid,Oui,
+2024-10-17 21:06:36,À emporter,5,4,3,Non,,Oui,Parfait pour un repas entre amis.
+2024-10-17 21:07:48,À emporter,4,4,5,Non,,Oui,
+2024-10-19 23:01:38,Sur place,5,4,4,Non,,Oui,
+2024-10-24 13:05:47,Sur place,5,4,4,Non,,Oui,Parfait pour un repas entre amis.
+2024-10-24 21:22:00,À emporter,4,5,3,Non,,Oui,Pâte excellente.
+2024-10-25 21:49:36,À emporter,5,3,5,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2024-11-03 22:07:18,Sur place,5,4,4,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2024-11-07 22:38:03,Sur place,2,2,4,Oui,Erreur de commande,Oui,Attente un peu longue ce soir.
+2024-11-09 14:00:31,À emporter,5,3,5,Non,,Oui,Bon rapport qualité-prix.
+2024-11-09 23:53:42,Sur place,4,3,5,Non,,Oui,Service rapide et sympa.
+2024-11-14 22:36:25,Sur place,5,4,3,Non,,Oui,Parfait pour un repas entre amis.
+2024-11-14 22:53:44,À emporter,3,2,5,Oui,Erreur de commande,Non,Erreur dans ma commande à emporter.
+2024-11-15 14:25:55,À emporter,4,3,4,Non,,Oui,Service rapide et sympa.
+2024-11-15 14:33:32,Sur place,4,4,5,Non,,Oui,Pâte excellente.
+2024-11-16 14:09:16,Sur place,4,3,5,Non,,Oui,Service rapide et sympa.
+2024-11-17 22:29:48,À emporter,5,4,5,Non,,Oui,
+2024-11-20 21:55:40,Sur place,4,3,5,Non,,Oui,Personnel accueillant.
+2024-11-22 13:22:32,À emporter,3,4,4,Non,,Oui,Service rapide et sympa.
+2024-11-25 14:39:38,Sur place,5,5,5,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2024-12-02 21:45:05,À emporter,5,3,5,Non,,Oui,
+2024-12-04 23:39:10,À emporter,4,4,4,Non,,Oui,
+2024-12-05 13:50:40,Sur place,5,4,5,Non,,Oui,
+2024-12-07 21:46:54,À emporter,5,5,4,Non,,Oui,Service rapide et sympa.
+2024-12-11 14:58:22,Sur place,4,4,5,Non,,Oui,Service rapide et sympa.
+2024-12-15 23:24:41,À emporter,4,5,5,Non,,Oui,
+2024-12-16 21:01:23,Sur place,4,3,5,Non,,Oui,Bon rapport qualité-prix.
+2024-12-17 14:09:04,À emporter,4,3,5,Non,,Oui,
+2024-12-19 13:42:21,À emporter,5,4,4,Non,,Oui,
+2024-12-20 14:46:28,Sur place,3,3,5,Non,,Oui,
+2024-12-21 15:34:15,À emporter,4,4,4,Non,,Oui,Parfait pour un repas entre amis.
+2024-12-26 14:55:16,Sur place,3,4,3,Non,,Oui,
+2024-12-26 22:29:49,À emporter,4,5,4,Non,,Oui,Bon rapport qualité-prix.
+2024-12-30 21:05:48,Sur place,4,5,5,Non,,Oui,Service rapide et sympa.
+2024-12-31 22:56:22,Sur place,2,3,3,Oui,Autre,Non,Erreur dans ma commande à emporter.
+2025-01-01 22:44:53,Sur place,2,3,5,Oui,"Plat froid, Autre",Non,Il manquait un ingrédient sur ma pizza.
+2025-01-04 23:46:38,Sur place,5,4,3,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2025-01-05 13:40:32,Sur place,5,3,3,Non,,Oui,
+2025-01-05 22:40:50,À emporter,5,3,5,Non,,Oui,
+2025-01-08 15:36:26,À emporter,2,2,5,Oui,Plat froid,Oui,
+2025-01-11 13:22:50,Sur place,3,3,5,Non,,Oui,Pâte excellente.
+2025-01-11 23:35:01,À emporter,4,3,4,Non,,Oui,Personnel accueillant.
+2025-01-12 21:34:21,Sur place,5,4,5,Non,,Oui,
+2025-01-21 14:04:45,Sur place,4,3,4,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2025-01-23 21:32:25,Sur place,5,3,4,Non,,Oui,Personnel accueillant.
+2025-01-26 13:55:41,Sur place,4,4,5,Non,,Oui,
+2025-01-27 22:21:11,Sur place,4,4,5,Non,,Oui,Personnel accueillant.
+2025-01-30 22:05:27,Sur place,5,3,4,Non,,Oui,Service rapide et sympa.
+2025-02-06 13:46:55,À emporter,4,4,3,Non,,Oui,Service rapide et sympa.
+2025-02-10 13:08:04,À emporter,4,4,5,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2025-02-10 22:23:32,Sur place,5,3,5,Non,,Oui,
+2025-02-11 14:43:28,Sur place,4,3,5,Non,,Oui,Parfait pour un repas entre amis.
+2025-02-12 21:41:17,Sur place,4,3,5,Non,,Oui,
+2025-02-14 23:07:16,Sur place,4,3,4,Non,,Oui,
+2025-02-15 15:07:08,À emporter,3,4,5,Non,,Oui,Parfait pour un repas entre amis.
+2025-02-15 21:45:04,Sur place,3,3,4,Oui,"Erreur de commande, Ingrédient manquant",Non,Ma pizza est arrivée tiède.
+2025-02-20 14:15:50,Sur place,4,5,5,Non,,Oui,
+2025-02-22 14:04:19,Sur place,4,4,5,Non,,Oui,
+2025-02-23 14:20:41,Sur place,3,5,5,Non,,Oui,Pâte excellente.
+2025-02-23 22:32:58,Sur place,3,5,4,Non,,Oui,
+2025-03-03 21:08:40,À emporter,4,3,4,Non,,Oui,
+2025-03-07 14:10:42,Sur place,5,5,5,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2025-03-09 14:02:41,À emporter,5,3,5,Non,,Oui,
+2025-03-10 13:31:56,Sur place,5,4,5,Non,,Oui,
+2025-03-12 22:04:44,Sur place,3,4,4,Non,,Oui,Pâte excellente.
+2025-03-17 21:46:55,Sur place,4,3,5,Non,,Oui,
+2025-03-21 21:15:29,À emporter,3,3,3,Non,,Oui,
+2025-03-28 22:15:55,Sur place,4,5,4,Non,,Oui,Pâte excellente.
+2025-03-29 23:29:31,Sur place,3,3,3,Oui,Mauvais goût,Non,Il manquait un ingrédient sur ma pizza.
+2025-03-31 14:56:16,À emporter,5,4,5,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2025-03-31 21:03:03,Sur place,4,4,3,Non,,Oui,Service rapide et sympa.
+2025-04-03 14:08:06,Sur place,4,4,4,Non,,Oui,Pâte excellente.
+2025-04-07 23:25:32,À emporter,3,3,5,Non,,Oui,Pâte excellente.
+2025-04-09 23:08:20,À emporter,5,4,5,Non,,Oui,Personnel accueillant.
+2025-04-10 21:32:53,Sur place,5,5,3,Non,,Oui,Parfait pour un repas entre amis.
+2025-04-12 14:26:37,À emporter,4,3,4,Non,,Oui,
+2025-04-13 15:46:03,Sur place,5,5,5,Non,,Oui,
+2025-04-15 15:02:36,Sur place,5,3,5,Non,,Oui,Pâte excellente.
+2025-04-17 15:26:32,À emporter,5,3,5,Non,,Oui,Bon rapport qualité-prix.
+2025-04-18 21:42:30,À emporter,5,3,5,Non,,Oui,Parfait pour un repas entre amis.
+2025-04-18 21:43:49,Sur place,3,3,4,Oui,Ingrédient manquant,Non,Il manquait un ingrédient sur ma pizza.
+2025-04-18 21:45:13,Sur place,5,4,5,Non,,Oui,
+2025-04-25 21:07:36,Sur place,5,4,4,Non,,Oui,Personnel accueillant.
+2025-04-27 21:45:05,À emporter,4,4,4,Non,,Oui,Bon rapport qualité-prix.
+2025-05-02 15:40:14,Sur place,3,4,3,Non,,Oui,Pâte excellente.
+2025-05-04 23:59:10,Sur place,4,4,4,Non,,Oui,Personnel accueillant.
+2025-05-05 21:41:03,Sur place,3,3,5,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2025-05-08 21:56:02,À emporter,3,5,4,Non,,Oui,
+2025-05-08 22:56:53,Sur place,4,3,5,Non,,Oui,
+2025-05-09 22:41:16,Sur place,5,4,5,Non,,Oui,
+2025-05-09 23:31:56,Sur place,4,4,3,Non,,Oui,Parfait pour un repas entre amis.
+2025-05-18 14:39:54,À emporter,5,4,3,Non,,Oui,
+2025-05-19 14:11:08,Sur place,3,3,4,Oui,Ingrédient manquant,Non,Erreur dans ma commande à emporter.
+2025-05-20 21:19:37,Sur place,5,4,5,Non,,Oui,Bon rapport qualité-prix.
+2025-05-22 14:29:19,À emporter,4,5,5,Non,,Oui,Personnel accueillant.
+2025-05-23 14:40:58,Sur place,4,3,4,Non,,Oui,
+2025-05-24 22:47:38,Sur place,4,5,5,Non,,Oui,
+2025-05-30 15:43:48,Sur place,5,3,5,Non,,Oui,
+2025-06-02 22:07:43,Sur place,4,4,5,Non,,Oui,
+2025-06-03 22:08:32,À emporter,4,3,5,Non,,Oui,Personnel accueillant.
+2025-06-04 13:25:16,À emporter,3,5,5,Non,,Oui,Service rapide et sympa.
+2025-06-05 13:59:57,À emporter,3,4,5,Non,,Oui,Pâte excellente.
+2025-06-06 22:23:57,À emporter,4,4,5,Non,,Oui,
+2025-06-07 14:41:55,Sur place,3,2,4,Oui,"Erreur de commande, Mauvais goût",Oui,Il manquait un ingrédient sur ma pizza.
+2025-06-17 13:19:29,Sur place,5,4,4,Non,,Oui,Bon rapport qualité-prix.
+2025-06-18 13:15:13,Sur place,2,2,5,Oui,Mauvais goût,Non,Ma pizza est arrivée tiède.
+2025-06-18 21:09:17,À emporter,4,3,5,Non,,Oui,
+2025-06-19 13:25:28,À emporter,4,3,4,Non,,Oui,Bon rapport qualité-prix.
+2025-06-19 21:36:38,À emporter,5,3,4,Non,,Oui,
+2025-06-27 15:26:19,À emporter,4,5,4,Non,,Oui,
+2025-06-29 22:35:31,Sur place,3,4,4,Non,,Oui,
+2025-06-30 21:24:11,Sur place,5,3,5,Non,,Oui,Pâte excellente.
+2025-07-02 21:05:34,À emporter,5,3,5,Non,,Oui,
+2025-07-05 13:55:04,Sur place,2,2,5,Oui,Ingrédient manquant,Non,Ma pizza est arrivée tiède.
+2025-07-07 15:47:07,Sur place,5,3,5,Non,,Oui,Bon rapport qualité-prix.
+2025-07-08 15:35:20,Sur place,4,4,4,Non,,Oui,
+2025-07-09 22:06:51,À emporter,5,3,5,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2025-07-11 15:47:09,Sur place,3,5,4,Non,,Oui,Parfait pour un repas entre amis.
+2025-07-13 22:36:53,À emporter,4,4,5,Non,,Oui,
+2025-07-14 13:33:02,Sur place,3,3,5,Non,,Oui,
+2025-07-14 22:29:10,À emporter,3,2,4,Oui,"Mauvais goût, Autre",Non,
+2025-07-17 13:13:32,Sur place,4,5,5,Non,,Oui,
+2025-07-18 13:34:35,À emporter,4,4,4,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2025-07-18 22:51:58,À emporter,4,2,4,Non,,Oui,Bon rapport qualité-prix.
+2025-07-21 23:16:52,À emporter,4,3,5,Non,,Oui,
+2025-07-30 15:44:14,À emporter,4,3,5,Non,,Oui,
+2025-07-31 22:03:40,Sur place,3,3,5,Non,,Oui,
+2025-08-02 14:19:10,Sur place,5,4,5,Non,,Oui,Parfait pour un repas entre amis.
+2025-08-02 23:36:42,Sur place,3,3,5,Non,,Non,
+2025-08-03 14:50:44,Sur place,5,4,5,Non,,Oui,Bon rapport qualité-prix.
+2025-08-07 21:38:49,Sur place,5,3,3,Non,,Oui,
+2025-08-08 22:31:14,À emporter,4,2,5,Non,,Oui,
+2025-08-09 22:05:49,Sur place,5,2,3,Non,,Oui,Personnel accueillant.
+2025-08-16 22:45:50,Sur place,5,3,3,Non,,Oui,Service rapide et sympa.
+2025-08-17 21:28:23,À emporter,4,3,5,Non,,Oui,
+2025-08-19 23:26:06,Sur place,2,2,4,Oui,"Plat froid, Ingrédient manquant",Oui,Ma pizza est arrivée tiède.
+2025-08-23 22:24:49,Sur place,3,3,4,Non,,Oui,Pâte excellente.
+2025-08-28 21:19:17,Sur place,4,3,5,Non,,Oui,Personnel accueillant.
+2025-08-29 13:25:21,Sur place,5,4,5,Non,,Oui,
+2025-08-29 14:23:16,Sur place,4,5,3,Non,,Oui,Pâte excellente.
+2025-08-29 21:20:38,À emporter,5,3,4,Non,,Oui,Personnel accueillant.
+2025-08-30 22:36:50,Sur place,2,3,5,Oui,Mauvais goût,Non,
+2025-08-30 23:11:43,Sur place,5,3,4,Non,,Oui,
+2025-09-05 22:50:24,Sur place,3,5,5,Non,,Oui,
+2025-09-08 23:02:50,Sur place,4,5,3,Non,,Oui,Service rapide et sympa.
+2025-09-09 21:10:41,Sur place,2,3,4,Oui,Plat froid,Non,Attente un peu longue ce soir.
+2025-09-10 23:47:33,Sur place,5,5,4,Non,,Oui,
+2025-09-14 23:09:22,Sur place,3,4,3,Non,,Non,
+2025-09-16 21:19:21,Sur place,4,5,5,Non,,Oui,Service rapide et sympa.
+2025-09-21 22:20:04,Sur place,4,3,4,Non,,Oui,
+2025-09-22 14:59:47,Sur place,4,5,5,Non,,Oui,
+2025-09-22 15:51:25,Sur place,5,4,5,Non,,Oui,
+2025-09-26 14:51:55,À emporter,5,4,3,Non,,Oui,Personnel accueillant.
+2025-09-26 22:37:27,À emporter,4,3,5,Non,,Oui,Service rapide et sympa.
+2025-09-27 22:33:40,Sur place,3,3,5,Oui,Autre,Non,Attente un peu longue ce soir.
+2025-09-28 14:52:43,Sur place,5,5,5,Non,,Oui,Pâte excellente.
+2025-10-04 14:20:53,Sur place,4,4,5,Non,,Oui,Pâte excellente.
+2025-10-04 22:11:31,Sur place,5,3,5,Non,,Oui,Personnel accueillant.
+2025-10-05 14:36:01,Sur place,4,4,4,Non,,Oui,Pâte excellente.
+2025-10-05 22:35:32,Sur place,5,4,5,Non,,Oui,
+2025-10-06 22:35:32,À emporter,3,4,4,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2025-10-08 22:34:13,Sur place,4,3,3,Non,,Oui,
+2025-10-10 21:55:52,À emporter,2,3,3,Oui,Erreur de commande,Oui,
+2025-10-12 21:55:45,Sur place,5,3,4,Non,,Oui,Bon rapport qualité-prix.
+2025-10-13 21:34:17,À emporter,5,4,4,Non,,Oui,Personnel accueillant.
+2025-10-14 21:54:32,À emporter,2,2,5,Oui,Ingrédient manquant,Oui,Il manquait un ingrédient sur ma pizza.
+2025-10-17 14:15:09,Sur place,5,3,5,Non,,Oui,
+2025-10-20 14:36:40,Sur place,4,4,5,Non,,Oui,Service rapide et sympa.
+2025-10-23 23:47:17,À emporter,5,4,5,Non,,Oui,Parfait pour un repas entre amis.
+2025-11-01 23:25:13,À emporter,4,4,4,Non,,Oui,Parfait pour un repas entre amis.
+2025-11-03 14:36:54,Sur place,3,3,5,Oui,Plat froid,Non,Erreur dans ma commande à emporter.
+2025-11-12 14:59:54,À emporter,4,3,5,Non,,Oui,Bon rapport qualité-prix.
+2025-11-15 14:56:41,Sur place,4,4,4,Non,,Oui,Personnel accueillant.
+2025-11-21 21:42:57,Sur place,5,4,5,Non,,Oui,
+2025-11-22 22:41:05,Sur place,5,3,4,Non,,Oui,
+2025-11-23 23:43:28,Sur place,3,4,5,Non,,Oui,
+2025-11-24 14:41:43,Sur place,4,5,5,Non,,Oui,Pâte excellente.
+2025-11-24 15:24:05,Sur place,5,3,4,Non,,Oui,Pâte excellente.
+2025-11-25 21:46:13,Sur place,5,4,5,Non,,Oui,Bon rapport qualité-prix.
+2025-11-28 14:08:48,Sur place,3,4,5,Non,,Oui,Pâte excellente.
+2025-11-28 21:41:05,Sur place,4,5,4,Non,,Oui,
+2025-12-02 15:31:24,Sur place,3,5,3,Non,,Oui,Parfait pour un repas entre amis.
+2025-12-07 14:00:16,Sur place,4,3,5,Non,,Oui,
+2025-12-07 22:55:53,Sur place,5,5,5,Non,,Oui,Service rapide et sympa.
+2025-12-10 21:05:19,À emporter,3,3,4,Non,,Oui,
+2025-12-10 23:49:26,Sur place,4,3,5,Non,,Oui,
+2025-12-13 14:19:44,Sur place,4,3,3,Non,,Oui,
+2025-12-17 22:22:33,Sur place,5,4,4,Non,,Oui,
+2025-12-17 22:39:38,Sur place,3,3,5,Non,,Non,"Très bonne pizza, je reviendrai !"
+2025-12-20 14:49:57,À emporter,3,4,3,Non,,Oui,
+2025-12-21 14:31:29,Sur place,5,4,4,Non,,Oui,Parfait pour un repas entre amis.
+2025-12-22 21:49:06,Sur place,5,3,5,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2025-12-24 13:15:02,À emporter,4,3,3,Non,,Oui,
+2025-12-28 14:32:43,Sur place,3,5,5,Non,,Non,
+2025-12-28 22:14:20,Sur place,2,3,5,Oui,Ingrédient manquant,Oui,
+2025-12-29 21:20:05,À emporter,3,2,4,Oui,Ingrédient manquant,Non,Attente un peu longue ce soir.
+2026-01-07 15:09:00,Sur place,4,5,5,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2026-01-08 13:48:42,Sur place,4,4,5,Non,,Oui,Bon rapport qualité-prix.
+2026-01-12 22:03:09,À emporter,5,3,5,Non,,Oui,
+2026-01-15 21:29:47,Sur place,3,5,5,Non,,Non,
+2026-01-16 22:42:08,À emporter,4,4,5,Non,,Oui,
+2026-01-18 21:20:28,Sur place,4,3,5,Non,,Oui,Service rapide et sympa.
+2026-01-19 14:10:28,Sur place,4,3,4,Non,,Oui,
+2026-01-20 22:16:54,Sur place,3,4,5,Non,,Oui,Bon rapport qualité-prix.
+2026-01-24 14:05:45,Sur place,4,4,5,Non,,Oui,Personnel accueillant.
+2026-01-25 14:00:03,Sur place,4,4,5,Non,,Oui,
+2026-01-25 14:01:25,Sur place,4,5,5,Non,,Oui,Service rapide et sympa.
+2026-01-25 21:58:52,Sur place,3,3,5,Non,,Oui,Pâte excellente.
+2026-01-29 21:07:02,À emporter,3,2,4,Oui,"Mauvais goût, Autre",Non,Erreur dans ma commande à emporter.
+2026-02-02 15:41:18,Sur place,4,5,3,Non,,Oui,Personnel accueillant.
+2026-02-05 14:26:12,Sur place,5,5,5,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2026-02-06 13:20:38,Sur place,4,4,5,Non,,Oui,
+2026-02-06 21:30:34,Sur place,4,5,5,Non,,Oui,Personnel accueillant.
+2026-02-07 15:10:06,Sur place,4,4,5,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2026-02-09 13:45:44,À emporter,4,5,4,Non,,Oui,
+2026-02-09 22:22:59,Sur place,4,5,5,Non,,Oui,
+2026-02-12 21:11:31,Sur place,3,3,3,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2026-02-14 15:51:08,À emporter,4,4,4,Non,,Oui,
+2026-02-15 14:49:07,Sur place,3,2,4,Oui,"Plat froid, Mauvais goût",Non,Attente un peu longue ce soir.
+2026-02-20 14:46:27,À emporter,5,4,5,Non,,Oui,
+2026-03-06 14:11:46,Sur place,3,5,5,Non,,Non,
+2026-03-08 15:40:36,Sur place,3,3,3,Non,,Oui,Parfait pour un repas entre amis.
+2026-03-10 14:52:45,Sur place,5,4,4,Non,,Oui,Bon rapport qualité-prix.
+2026-03-12 14:22:16,Sur place,3,3,5,Non,,Oui,Pâte excellente.
+2026-03-13 22:56:24,Sur place,3,3,3,Oui,Autre,Oui,Il manquait un ingrédient sur ma pizza.
+2026-03-19 22:04:51,Sur place,3,4,3,Non,,Non,Pâte excellente.
+2026-03-22 14:46:04,À emporter,5,3,5,Non,,Oui,
+2026-03-23 13:27:41,Sur place,4,4,3,Non,,Oui,Parfait pour un repas entre amis.
+2026-03-24 15:26:44,Sur place,5,5,4,Non,,Oui,Personnel accueillant.
+2026-03-26 14:03:25,Sur place,5,4,4,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2026-03-27 14:18:52,Sur place,5,4,3,Non,,Oui,Bon rapport qualité-prix.
+2026-04-03 22:16:14,Sur place,4,3,5,Non,,Oui,Service rapide et sympa.
+2026-04-03 23:24:11,Sur place,4,4,3,Non,,Oui,Personnel accueillant.
+2026-04-04 21:51:34,À emporter,4,5,3,Non,,Oui,
+2026-04-09 22:34:43,À emporter,4,3,3,Non,,Oui,
+2026-04-10 13:32:36,Sur place,5,5,5,Non,,Oui,Pâte excellente.
+2026-04-10 15:51:12,À emporter,4,3,5,Non,,Oui,Bon rapport qualité-prix.
+2026-04-13 14:53:38,À emporter,4,3,5,Non,,Oui,
+2026-04-16 14:50:18,À emporter,5,4,5,Non,,Oui,
+2026-04-16 21:54:17,À emporter,5,3,5,Non,,Oui,
+2026-04-16 22:07:26,À emporter,4,5,3,Non,,Oui,Service rapide et sympa.
+2026-04-21 22:02:11,À emporter,3,3,4,Oui,"Mauvais goût, Autre",Non,Attente un peu longue ce soir.
+2026-04-22 15:03:47,Sur place,4,4,4,Non,,Oui,Personnel accueillant.
+2026-04-26 22:54:44,Sur place,5,3,5,Non,,Oui,
+2026-04-28 21:46:26,Sur place,5,3,5,Non,,Oui,
+2026-04-29 23:55:23,À emporter,3,3,5,Non,,Oui,Pâte excellente.
+2026-05-01 21:52:29,Sur place,5,3,4,Non,,Oui,Parfait pour un repas entre amis.
+2026-05-02 14:18:01,À emporter,5,5,4,Non,,Oui,Bon rapport qualité-prix.
+2026-05-02 15:43:13,Sur place,4,5,5,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2026-05-02 22:11:55,À emporter,4,4,4,Non,,Oui,
+2026-05-06 14:41:11,À emporter,5,3,4,Non,,Oui,
+2026-05-07 21:19:43,Sur place,3,4,5,Non,,Oui,Personnel accueillant.
+2026-05-07 21:27:57,À emporter,4,4,5,Non,,Oui,Personnel accueillant.
+2026-05-07 23:52:39,À emporter,4,3,5,Non,,Oui,Parfait pour un repas entre amis.
+2026-05-08 21:12:09,À emporter,2,2,5,Oui,Ingrédient manquant,Oui,Ma pizza est arrivée tiède.
+2026-05-12 22:18:16,Sur place,4,3,5,Non,,Oui,Bon rapport qualité-prix.
+2026-05-15 15:43:34,À emporter,5,4,4,Non,,Oui,
+2026-05-19 14:18:06,À emporter,4,4,5,Non,,Oui,Pâte excellente.
+2026-05-23 21:41:05,Sur place,4,4,4,Non,,Oui,Parfait pour un repas entre amis.
+2026-05-27 14:55:43,Sur place,4,5,4,Non,,Oui,Pâte excellente.
+2026-05-27 21:29:54,À emporter,3,5,5,Non,,Non,Bon rapport qualité-prix.
+2026-05-29 14:20:40,Sur place,4,4,4,Non,,Oui,
+2026-05-29 21:26:36,À emporter,4,3,5,Non,,Oui,Parfait pour un repas entre amis.
+2026-05-30 22:50:48,Sur place,3,4,5,Non,,Oui,
+2026-06-01 15:46:01,Sur place,5,3,5,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2026-06-01 21:08:06,Sur place,4,4,3,Non,,Oui,Personnel accueillant.
+2026-06-01 21:48:12,Sur place,4,5,4,Non,,Oui,
+2026-06-01 22:46:33,Sur place,5,4,4,Non,,Oui,Parfait pour un repas entre amis.
+2026-06-02 21:49:34,Sur place,5,3,5,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2026-06-07 13:19:26,Sur place,5,5,5,Non,,Oui,
+2026-06-07 14:26:28,À emporter,5,4,4,Non,,Oui,Bon rapport qualité-prix.
+2026-06-08 15:49:16,Sur place,5,4,4,Non,,Oui,Pâte excellente.
+2026-06-08 22:53:57,Sur place,3,5,3,Non,,Oui,
+2026-06-11 23:31:58,À emporter,4,4,3,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2026-06-12 14:58:07,À emporter,5,3,5,Non,,Oui,Service rapide et sympa.
+2026-06-17 14:57:16,Sur place,2,3,4,Oui,Mauvais goût,Non,Il manquait un ingrédient sur ma pizza.
+2026-06-18 21:23:51,Sur place,5,4,3,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2026-06-21 14:21:22,Sur place,4,4,3,Non,,Oui,Parfait pour un repas entre amis.
+2026-06-22 14:07:25,Sur place,4,4,5,Non,,Oui,
+2026-06-24 14:07:08,À emporter,5,4,5,Non,,Oui,
+2026-06-24 22:11:39,Sur place,4,5,5,Non,,Oui,
+2026-06-25 22:58:31,À emporter,3,5,4,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2026-06-27 23:49:47,À emporter,5,3,5,Non,,Oui,Parfait pour un repas entre amis.
+2026-06-29 23:44:44,À emporter,5,3,5,Non,,Oui,
+2026-07-01 21:17:03,Sur place,5,4,3,Non,,Oui,
+2026-07-02 22:05:54,Sur place,4,3,5,Non,,Oui,
+2026-07-03 14:25:26,Sur place,3,2,5,Non,,Oui,
+2026-07-05 23:35:13,Sur place,5,4,4,Non,,Oui,
+2026-07-06 21:22:53,Sur place,5,3,5,Non,,Oui,Service rapide et sympa.
+2026-07-06 23:49:39,Sur place,5,5,5,Non,,Oui,Bon rapport qualité-prix.
+2026-07-11 14:31:08,Sur place,5,4,4,Non,,Oui,Service rapide et sympa.
+2026-07-13 15:29:52,Sur place,2,3,3,Oui,Plat froid,Oui,
+2026-07-16 13:35:59,À emporter,4,5,4,Non,,Oui,
+2026-07-16 14:46:52,Sur place,5,5,5,Non,,Oui,
+2026-07-16 22:29:42,À emporter,5,3,3,Non,,Oui,
+2026-07-17 15:17:25,À emporter,4,4,5,Non,,Oui,
+2026-07-18 23:19:53,À emporter,5,2,4,Non,,Oui,Bon rapport qualité-prix.
+2026-07-20 21:43:22,Sur place,5,3,5,Non,,Oui,
+2026-07-21 14:48:22,Sur place,5,4,5,Non,,Oui,Personnel accueillant.
+2026-07-25 13:33:06,Sur place,3,2,4,Non,,Oui,Pâte excellente.
+2026-07-27 21:09:53,À emporter,3,2,4,Non,,Oui,Service rapide et sympa.
+2026-07-27 23:55:14,Sur place,5,3,5,Non,,Oui,
+2026-07-28 15:58:40,Sur place,5,2,5,Non,,Oui,Bon rapport qualité-prix.
+2026-07-28 22:11:43,Sur place,4,2,5,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2026-07-28 22:24:26,Sur place,5,3,4,Non,,Oui,
+2026-07-29 21:35:16,Sur place,5,3,5,Non,,Oui,Pâte excellente.
+2026-07-30 14:59:20,À emporter,5,5,4,Non,,Oui,
+2026-08-03 21:23:18,Sur place,4,4,5,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2026-08-03 21:28:15,Sur place,5,3,4,Non,,Oui,
+2026-08-03 22:16:34,Sur place,5,4,5,Non,,Oui,
+2026-08-06 13:18:57,Sur place,5,4,5,Non,,Oui,
+2026-08-06 14:13:42,À emporter,5,4,4,Non,,Oui,
+2026-08-07 22:41:52,Sur place,3,3,5,Non,,Oui,Service rapide et sympa.
+2026-08-08 13:11:50,Sur place,4,3,5,Non,,Oui,
+2026-08-08 22:27:20,À emporter,3,2,5,Non,,Oui,Service rapide et sympa.
+2026-08-11 13:44:54,Sur place,3,4,4,Non,,Oui,Personnel accueillant.
+2026-08-12 22:25:52,Sur place,5,2,4,Non,,Oui,
+2026-08-12 23:18:40,Sur place,2,3,5,Oui,"Plat froid, Ingrédient manquant",Non,
+2026-08-13 14:02:00,À emporter,5,4,5,Non,,Oui,
+2026-08-14 21:13:26,Sur place,5,2,4,Non,,Oui,
+2026-08-17 14:16:06,Sur place,4,4,5,Non,,Oui,
+2026-08-17 14:18:39,À emporter,3,3,4,Non,,Oui,Personnel accueillant.
+2026-08-17 15:07:11,Sur place,5,5,5,Non,,Oui,Service rapide et sympa.
+2026-08-18 14:36:36,À emporter,4,4,4,Non,,Oui,Bon rapport qualité-prix.
+2026-08-18 22:17:53,Sur place,5,4,4,Non,,Oui,Personnel accueillant.
+2026-08-18 23:06:11,À emporter,5,3,4,Non,,Oui,Personnel accueillant.
+2026-08-22 14:46:04,À emporter,3,5,5,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2026-08-23 21:34:57,Sur place,5,4,5,Non,,Oui,
+2026-08-26 14:29:32,À emporter,5,2,5,Non,,Oui,Bon rapport qualité-prix.
+2026-08-26 14:48:32,Sur place,4,2,5,Non,,Oui,
+2026-08-29 21:02:14,Sur place,5,2,3,Non,,Oui,
+2026-08-31 23:58:50,Sur place,4,4,5,Non,,Oui,Parfait pour un repas entre amis.
+2026-09-03 21:52:55,Sur place,4,4,3,Non,,Oui,
+2026-09-06 22:10:14,À emporter,3,5,4,Non,,Oui,
+2026-09-08 14:42:14,Sur place,4,3,5,Non,,Oui,
+2026-09-09 13:56:46,À emporter,5,4,4,Non,,Oui,
+2026-09-09 14:41:53,Sur place,5,4,5,Non,,Oui,Pâte excellente.
+2026-09-09 23:02:57,Sur place,5,4,4,Non,,Oui,
+2026-09-12 22:55:30,À emporter,5,4,5,Non,,Oui,Pâte excellente.
+2026-09-13 14:30:57,Sur place,5,5,3,Non,,Oui,Service rapide et sympa.
+2026-09-13 22:08:06,Sur place,4,5,4,Non,,Oui,
+2026-09-13 23:16:10,Sur place,5,4,3,Non,,Oui,Bon rapport qualité-prix.
+2026-09-17 14:27:08,Sur place,3,3,4,Oui,Ingrédient manquant,Non,
+2026-09-17 14:57:38,À emporter,5,4,4,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2026-09-17 23:27:14,À emporter,4,5,5,Non,,Oui,
+2026-09-18 21:12:00,Sur place,5,3,3,Non,,Oui,
+2026-09-19 21:16:54,Sur place,5,4,5,Non,,Oui,
+2026-09-19 22:35:50,Sur place,5,4,5,Non,,Oui,Personnel accueillant.
+2026-09-19 22:41:13,À emporter,5,5,4,Non,,Oui,
+2026-09-21 14:13:32,Sur place,4,5,5,Non,,Oui,
+2026-09-21 14:24:40,Sur place,3,3,5,Non,,Oui,Service rapide et sympa.
+2026-09-21 21:49:45,Sur place,4,3,5,Non,,Oui,
+2026-09-23 15:23:05,À emporter,5,4,5,Non,,Oui,
+2026-09-24 23:18:45,Sur place,5,3,5,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2026-09-27 15:33:00,À emporter,5,3,5,Non,,Oui,
+2026-09-27 21:15:41,Sur place,3,3,5,Non,,Oui,
+2026-09-27 23:18:12,Sur place,3,5,4,Non,,Oui,
+2026-09-29 21:22:52,Sur place,5,3,5,Non,,Oui,
+2026-09-30 21:11:26,À emporter,5,3,4,Non,,Oui,Service rapide et sympa.
+2026-10-01 15:43:44,Sur place,4,4,5,Non,,Oui,
+2026-10-03 21:15:18,Sur place,4,5,4,Non,,Oui,
+2026-10-04 21:13:57,À emporter,5,3,4,Non,,Oui,Bon rapport qualité-prix.
+2026-10-08 15:55:16,Sur place,5,3,4,Non,,Oui,Pâte excellente.
+2026-10-09 14:58:05,Sur place,5,4,5,Non,,Oui,"Très bonne pizza, je reviendrai !"
+2026-10-09 21:25:14,Sur place,5,5,5,Non,,Oui,
+2026-10-09 21:39:20,À emporter,4,5,5,Non,,Oui,Pâte excellente.
+2026-10-11 23:22:25,Sur place,5,4,5,Non,,Oui,
+2026-10-13 21:44:00,Sur place,3,4,4,Non,,Oui,Personnel accueillant.
+2026-10-15 15:26:44,Sur place,5,5,4,Non,,Oui,
+2026-10-15 15:52:06,Sur place,5,3,5,Non,,Oui,Bon rapport qualité-prix.
+2026-10-15 23:16:15,Sur place,5,5,4,Non,,Oui,
+2026-10-16 14:30:51,À emporter,2,2,5,Oui,Erreur de commande,Oui,
+2026-10-16 21:50:31,Sur place,5,5,3,Non,,Oui,
+2026-10-18 13:13:52,Sur place,5,4,4,Non,,Oui,Personnel accueillant.
+2026-10-19 21:35:35,Sur place,5,5,5,Non,,Oui,
+2026-10-19 22:39:18,Sur place,4,3,5,Non,,Oui,Parfait pour un repas entre amis.
+2026-10-19 23:11:49,Sur place,5,5,5,Non,,Oui,
+2026-10-22 22:54:58,Sur place,4,5,4,Non,,Oui,
+2026-10-23 21:38:41,À emporter,5,4,4,Non,,Oui,
+2026-10-25 13:49:25,Sur place,5,4,5,Non,,Oui,Pâte excellente.
+2026-10-25 14:13:10,Sur place,5,3,5,Non,,Oui,
+2026-10-25 23:28:26,Sur place,5,4,4,Non,,Oui,
+2026-10-26 22:19:14,Sur place,4,4,4,Non,,Oui,
+2026-10-27 13:02:42,Sur place,4,4,5,Non,,Oui,

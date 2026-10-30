@@ -1,0 +1,31 @@
+HELLO PIZZA - APPLICATION « TABLEAU DE BORD » (Python + Streamlit)
+===================================================================
+
+Contenu du dossier
+------------------
+app.py            : démarrage, connexion (gérant / responsables), menu et choix du mois
+config.py         : PARAMÈTRES à remplir (liens des Google Sheets, clé Google, comptes)
+indicateurs.py    : les 13 indicateurs (formules, cibles mensuelles, feux, cumuls, scores)
+donnees.py        : lecture du Google Sheet rempli par n8n (+ données de secours hors connexion)
+graphiques.py     : graphiques Plotly (cible du mois / réalisé / cumul)
+diagnostic.py     : diagnostic automatique (règles de comparaison, pas de prédiction)
+interface.py      : style et cartes
+pages.py          : les pages du gérant et les 4 tableaux de bord des responsables
+rapport.py        : rapport PDF et envoi par e-mail
+donnees_secours/  : copie des données pour une démonstration sans Internet
+LANCER_APPLICATION.bat : double-clic pour lancer l'application
+
+Comptes de démonstration (modifiables dans config.py)
+-----------------------------------------------------
+gerant   / HelloPizza2026  -> synthèse et pilotage
+chef     / Cuisine2026     -> 4 tableaux de bord de processus
+serveur  / Service2026     -> 4 tableaux de bord de processus
+caissier / Caisse2026      -> 4 tableaux de bord de processus
+
+Règles de calcul
+----------------
+- Feu du mois : vert si la cible du mois est atteinte, orange si l'écart est de moins de 5 %, rouge sinon.
+- Score d'un indicateur = (nombre de mois où la cible est atteinte ÷ 12) × 100.
+- Score global = moyenne des scores des 4 indicateurs des objectifs majeurs.
+- Graphiques : avril 2026 (M0) = situation de départ ; après le mois choisi, seule la cible
+  déjà fixée est affichée (aucune prévision).
